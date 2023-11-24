@@ -1,5 +1,5 @@
-- # Concept
-	- A functional programming language that has a magical flair
+# Concept
+- A functional programming language that has a magical flair
 
 # Important Ideas
  - Has two separate syntax denotated by file extensions
@@ -18,6 +18,9 @@
 		- starts with `func` keyword
 		- ends with `return null` 
 			- if its at the end of a function, it will auto `return null`
+	- ### Loops
+		- Structure loops like in python
+			- `for x in y`
 	- ### Imports
 		- Have a `std` library for cmd line and useful programming
 			- reading files
@@ -30,6 +33,11 @@
 				- etc
 - ## Syntactic Sugar
 	- shorthand function syntax for single line length functions
+	- shorthand for a list of numbers
+		- `(1..10)` numbers 1-10
+		- `(..10)` numbers 0-10
+		- `(0..10..2)` numbers 0-10 going by 2
+	- must have `++ -- += -=`
 # Diagram Ideas
 - ### Functions
 	- represented as a circle
