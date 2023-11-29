@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace Nodes
@@ -25,6 +26,23 @@ namespace Nodes
     {
         public NodeType type => NodeType.program;
         public List<Statement> body;
+
+        public Program(IEnumerable<Statement> body)
+        {
+            this.body = body.ToList();
+        }
+        public Program() : this(new Statement[0]) {}
+
+        public override string ToString()
+        {
+            var s = $"Type: Program, Nodes: {{";
+            foreach (var stmt in body)
+            {
+                s += $"{stmt.ToString()}\n";
+            }
+            s += "}";
+            return s;
+        }
     }
 
     public interface Expression : Statement { }

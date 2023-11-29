@@ -1,0 +1,5 @@
+/home/matthew/projects/ArcanaLang/cs-test/bin/Debug/net6.0/linux-x64/publish/cs-test
+/home/matthew/projects/ArcanaLang/cs-test/bin/Debug/net6.0/linux-x64/publish/cs-test.dll
+/home/matthew/projects/ArcanaLang/cs-test/bin/Debug/net6.0/linux-x64/publish/cs-test.deps.json
+/home/matthew/projects/ArcanaLang/cs-test/bin/Debug/net6.0/linux-x64/publish/cs-test.runtimeconfig.json
+/home/matthew/projects/ArcanaLang/cs-test/bin/Debug/net6.0/linux-x64/publish/cs-test.pdb

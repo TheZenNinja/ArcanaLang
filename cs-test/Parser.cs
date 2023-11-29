@@ -1,11 +1,10 @@
 ﻿using Nodes;
 using System;
 using System.Collections.Generic;
-using System.Threading;
 
 public class Parser
 {
-    private List<Tokenizer.Token> tokens;
+    private List<Tokenizer.Token> tokens = new List<Tokenizer.Token>();
     private int tokenIndex;
 
     bool endOfFile => tokens[0].type != Tokenizer.TokenType.EndOfFile;
@@ -20,9 +19,10 @@ public class Parser
         //parse until EoF
         while (!endOfFile)
         {
-            progNode.body.Add(ParseStatement());
+            var st = ParseStatement();
+            if (st != null)
+                progNode.body.Add(st);
         }
-
         return progNode;
     }
 

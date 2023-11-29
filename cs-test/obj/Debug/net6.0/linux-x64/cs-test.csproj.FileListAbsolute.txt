@@ -1,0 +1,15 @@
+/home/matthew/projects/ArcanaLang/cs-test/bin/Debug/net6.0/linux-x64/cs-test
+/home/matthew/projects/ArcanaLang/cs-test/bin/Debug/net6.0/linux-x64/cs-test.deps.json
+/home/matthew/projects/ArcanaLang/cs-test/bin/Debug/net6.0/linux-x64/cs-test.runtimeconfig.json
+/home/matthew/projects/ArcanaLang/cs-test/bin/Debug/net6.0/linux-x64/cs-test.dll
+/home/matthew/projects/ArcanaLang/cs-test/bin/Debug/net6.0/linux-x64/ref/cs-test.dll
+/home/matthew/projects/ArcanaLang/cs-test/bin/Debug/net6.0/linux-x64/cs-test.pdb
+/home/matthew/projects/ArcanaLang/cs-test/obj/Debug/net6.0/linux-x64/cs-test.csproj.AssemblyReference.cache
+/home/matthew/projects/ArcanaLang/cs-test/obj/Debug/net6.0/linux-x64/cs-test.GeneratedMSBuildEditorConfig.editorconfig
+/home/matthew/projects/ArcanaLang/cs-test/obj/Debug/net6.0/linux-x64/cs-test.AssemblyInfoInputs.cache
+/home/matthew/projects/ArcanaLang/cs-test/obj/Debug/net6.0/linux-x64/cs-test.AssemblyInfo.cs
+/home/matthew/projects/ArcanaLang/cs-test/obj/Debug/net6.0/linux-x64/cs-test.csproj.CoreCompileInputs.cache
+/home/matthew/projects/ArcanaLang/cs-test/obj/Debug/net6.0/linux-x64/cs-test.dll
+/home/matthew/projects/ArcanaLang/cs-test/obj/Debug/net6.0/linux-x64/ref/cs-test.dll
+/home/matthew/projects/ArcanaLang/cs-test/obj/Debug/net6.0/linux-x64/cs-test.pdb
+/home/matthew/projects/ArcanaLang/cs-test/obj/Debug/net6.0/linux-x64/cs-test.genruntimeconfig.cache
