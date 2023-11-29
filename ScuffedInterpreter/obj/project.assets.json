@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matthew\\Repos\\ArcanaLang\\cs-test\\cs-test.csproj",
-      "projectName": "cs-test",
-      "projectPath": "C:\\Users\\Matthew\\Repos\\ArcanaLang\\cs-test\\cs-test.csproj",
+      "projectUniqueName": "C:\\Users\\Matthew\\Repos\\ArcanaLang\\ScuffedInterpreter\\ScuffedInterpreter.csproj",
+      "projectName": "ScuffedInterpreter",
+      "projectPath": "C:\\Users\\Matthew\\Repos\\ArcanaLang\\ScuffedInterpreter\\ScuffedInterpreter.csproj",
       "packagesPath": "C:\\Users\\Matthew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matthew\\Repos\\ArcanaLang\\cs-test\\obj\\",
+      "outputPath": "C:\\Users\\Matthew\\Repos\\ArcanaLang\\ScuffedInterpreter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

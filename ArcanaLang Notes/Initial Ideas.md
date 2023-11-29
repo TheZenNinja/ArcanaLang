@@ -22,7 +22,7 @@
 		- Structure loops like in python
 			- `for x in y`
 	- ### Imports
-		- Have a `std` library for cmd line and useful programming
+		- Have a `cmd` (command) library for cmd line and useful programming
 			- reading files
 			- console input/output
 		- have a `arc` library for making spells for games

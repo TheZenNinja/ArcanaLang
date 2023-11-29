@@ -1,0 +1,15 @@
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\bin\Debug\net6.0\cs-test.exe
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\bin\Debug\net6.0\cs-test.deps.json
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\bin\Debug\net6.0\cs-test.runtimeconfig.json
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\bin\Debug\net6.0\cs-test.dll
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\bin\Debug\net6.0\cs-test.pdb
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\obj\Debug\net6.0\cs-test.csproj.AssemblyReference.cache
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\obj\Debug\net6.0\cs-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\obj\Debug\net6.0\cs-test.AssemblyInfoInputs.cache
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\obj\Debug\net6.0\cs-test.AssemblyInfo.cs
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\obj\Debug\net6.0\cs-test.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\obj\Debug\net6.0\cs-test.dll
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\obj\Debug\net6.0\refint\cs-test.dll
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\obj\Debug\net6.0\cs-test.pdb
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\obj\Debug\net6.0\cs-test.genruntimeconfig.cache
+C:\Users\Matthew\Repos\ArcanaLang\cs-test\obj\Debug\net6.0\ref\cs-test.dll
